@@ -7,15 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Currently, I work as a postdoctoral researcher in the computing group at ALS of [Berkeley Lab](https://www.lbl.gov/). I earned my Ph.D. degree from the Department of Materials Science and Engineering at [Carnegie Mellon University](https://www.cmu.edu/) in 2023. 
 
-I am a final year Ph.D. student in the Department of Materials Science and Engineering at [Carnegie Mellon University](https://www.cmu.edu/), and expected to graduate in May 2023. I work at the intersection of materials science and machine learning. I am actively seeking full-time employment as a Machine Learning Engineer (MLE) and and Data Scientist (DS).
-
-I am passionate about materials science, machine learning and software engineering. I am eager to bring my expertise and passion to a company where I can continue to learn and make a meaningful impact.
+I have a deep passion for machine learning and software engineering, with a particular focus on their applications within the field of materials science. My passion lies in the application of these skills to solve complex challenges in materials domain. I am eager to collaborate with colleagues and contribute to meaningful projects that can drive innovation and progress in my current role.
 
 Research Interests
 ------
-* Synchrotron x-ray imaging of laser-matter characterization for failure analysis and quality control
-* Applied deep learning and data science
+* Machine learning and data science
 * Automation and machine learning for image analysis
+* Synchrotron x-ray imaging of laser-matter characterization for failure analysis and quality control
 
 

@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Materials Science and Engineering, Carnegie Mellon University, 2023 (expected)
+* Ph.D in Materials Science and Engineering, Carnegie Mellon University, 2023
 * M.S. in Materials Science and Engineering, Carnegie Mellon University, 2018
 * B.Eng. in Materials Science and Engineering, Jiangsu University, 2017
 
 Work experience
 ======
-* May - Aug 2022: Machine Learning Engineering Intern
+* Sep 2023 - Present: Theoretical and Computational Postdoctoral Scholar
+  * [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)
+  * Berkeley, CA
+
+* May 2022 - Aug 2022: Machine Learning Engineering Intern
   * [Moveworks, Inc](https://www.moveworks.com/).
   * Mountain View, CA
   * Conversational AI team
