@@ -44,4 +44,4 @@ To make is easy for people who are interested in trying the models, please visit
     <figcaption> Segmentation results from test data on different materials and processing conditions.</figcaption>
 </figure> -->
 
-Reference: manuscript was submitted to *npj Computational Materials* in April and is currently under peer review.
+Reference: manuscript was accepted to *npj Computational Materials* in Oct 2023.
