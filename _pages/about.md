@@ -7,14 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I work as a postdoctoral researcher in the computing group at ALS of [Berkeley Lab](https://www.lbl.gov/). I earned my Ph.D. degree from the Department of Materials Science and Engineering at [Carnegie Mellon University](https://www.cmu.edu/) in 2023. 
-
-I have a deep passion for machine learning and software engineering, with a particular focus on their applications within the field of materials science. I am eager to collaborate with colleagues and contribute to projects that can drive innovation and progress in my current role.
+Incoming Research Scientist, Machine Learning at Meta. I earned my Ph.D. degree from the Department of Materials Science and Engineering at Carnegie Mellon University in 2023.
 
 Research Interests
 ------
 * Machine learning and data science
-* Automation and machine learning for image analysis
-* Synchrotron x-ray imaging of laser-matter characterization for failure analysis and quality control
-
-
+* Automation and machine learning for image analysis and materials science
