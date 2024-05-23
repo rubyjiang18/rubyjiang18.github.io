@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Sep 2023 - Present: Theoretical and Computational Postdoctoral Scholar
+
+* Sep 2023 - Jun 2024: Theoretical and Computational Postdoctoral Scholar
   * [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)
   * Berkeley, CA
 
@@ -33,16 +34,8 @@ Work experience
   
 Skills
 ======
-* Programming
-  * Languages: Python, Java, MATLAB, SQL, HTML, CSS, JavaScript
-  * Frameworks and libraries: Git, PyTorch, OpenCV, Scikit-learn, PySpark, Databricks, AWS, MySQL, Flask, Docker, Dash, LaTex, VSCode
-* Materials Characterization
-  * OM, SEM, EBSD, XRD, CT
-  * Synchrotron x-ray imaging and diffraction
-* Mechanical Testing:
-  * Vickers hrdness, nanoindentation
-  * Tensile test
-  * Fracture toughness test
+* Languages: Python, Java, MATLAB, SQL, HTML, CSS, JavaScript
+* Frameworks and libraries: Git, PyTorch, OpenCV, Scikit-learn, PySpark, Databricks, AWS, MySQL, Flask, Docker, Dash, LaTex, VSCode
 
 
 <!-- Publications
