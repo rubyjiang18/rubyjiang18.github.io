@@ -18,6 +18,10 @@ Education
 Work experience
 ======
 
+* Jun 2024 - : Research Scientist, Machine Learning
+  * Meta
+  * Menlo Park, CA
+
 * Sep 2023 - Jun 2024: Theoretical and Computational Postdoctoral Scholar
   * [Lawrence Berkeley National Laboratory](https://www.lbl.gov/)
   * Berkeley, CA
