@@ -15,8 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Last imported from my [GoogleScholar page](https://scholar.google.com/citations?hl=en&user=D8PJ7eEAAAAJ&view_op=list_works&sortby=pubdate) on 2022-12-26.
+Last imported from my [GoogleScholar page](https://scholar.google.com/citations?hl=en&user=D8PJ7eEAAAAJ&view_op=list_works&sortby=pubdate) on 2024-06-03.
 
+J Zhang, R Jiang, K Li, P Chen, X Shang, Z Liu, J Hattrick-Simpers, B Simonds, Q Wei, H Wang, T Sun, A Rollett, Y Zou. [Accurate predictions of keyhole depths using machine learning-aided simulations](https://arxiv.org/abs/2402.16190). arXiv preprint.
+
+R Jiang, J Smith , YT Yi, T Sun, B Simonds, A Rollett. [Deep learning approaches for instantaneous laser absorptance prediction in additive manufacturing](https://www.nature.com/articles/s41524-023-01172-8). *npj Comput Mater 10, 6 (2024).*
 
 R Jiang, Z Ren, J Aroh, A Mostafaei, B Gould, T Sun, AD Rollett, 2022, [Quantifying Equiaxed vs Epitaxial Solidification in Laser Melting of CMSX-4 Single Crystal Superalloy](https://link.springer.com/article/10.1007/s11661-022-06929-2), *Metallurgical and Materials Transactions A*.
 
