@@ -19,7 +19,7 @@ Work experience
 ======
 
 * Jun 2024 - : Research Scientist, Machine Learning
-  * Meta
+  * Meta Platforms
   * Menlo Park, CA
 
 * Sep 2023 - Jun 2024: Theoretical and Computational Postdoctoral Scholar
