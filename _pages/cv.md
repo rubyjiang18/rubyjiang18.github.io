@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* Jun 2024 - : Research Scientist, Machine Learning
+* Jul 2024 - : Research Scientist, Machine Learning
   * Meta Platforms
   * Menlo Park, CA
 
