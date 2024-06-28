@@ -11,12 +11,16 @@ author_profile: true
 <br>
 * <b>Deep learning approaches for instantaneous laser absorptance prediction in additive manufacturing</b>
 <br>R. Jiang, J. Smith , Y.T. Yi, T. Sun, B. Simonds, A. Rollett
-<br> <a href="https://www.nature.com/articles/s41524-023-01172-8">[*npj Comput Mater 10, 6 (2024)*]</a>
+<br> <a href="https://www.nature.com/articles/s41524-023-01172-8">[*npj Computational Materials*]</a><a href="https://rubyjiang18.github.io/keyholeofficial/">[Code and Dataset]
 <br>
 
 #### 2023
-R Jiang, Z Ren, J Aroh, A Mostafaei, B Gould, T Sun, AD Rollett, 2022, [Quantifying Equiaxed vs Epitaxial Solidification in Laser Melting of CMSX-4 Single Crystal Superalloy](https://link.springer.com/article/10.1007/s11661-022-06929-2), *Metallurgical and Materials Transactions A*.
+* <b>Quantifying Equiaxed vs Epitaxial Solidification in Laser Melting of CMSX-4 Single Crystal Superalloy</b>
+<br>R. Jiang, Z. Ren, J. Aroh, A. Mostafaei, B. Gould, T. Sun, A.D. Rollett
+<br> <a href="https://link.springer.com/article/10.1007/s11661-022-06929-2">[*Metallurgical and Materials Transactions A*]</a>
+<br>
 
+#### 2022
 M Asherloo, Z Wu, MH Delpazir, E Ghebreiesus, S Fryzlewicz, R Jiang, B Gould, M Heim, D Nelson, M Marucci, M Paliwal, AD Rollett, A Mostafaei, 2022, [Laser-beam powder bed fusion of cost-effective non-spherical hydride-dehydride Ti-6Al-4V alloy](https://www.sciencedirect.com/science/article/pii/S2214860422002743), *Additive Manufacturing*, 56, 102875.
 
 J Pyeon, J Aroh, R Jiang, AK Verma, B Gould, A Ramlatchan, K Fezzaa, N Parab, C Zhao, T Sun, AD Rollett, 2021, [Time-resolved geometric feature tracking elucidates laser-induced keyhole dynamics](https://link.springer.com/article/10.1007/s40192-021-00241-4), *Integrating Materials and Manufacturing Innovation*, 10, 677-688.
