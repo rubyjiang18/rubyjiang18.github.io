@@ -6,11 +6,11 @@ author_profile: true
 ---
 ### 2024
 * <b>Accurate predictions of keyhole depths using machine learning-aided simulations</b>
-<br>J. Zhang, R. Jiang, K. Li, P. Chen, X. Shang, Z. Liu, J. Hattrick-Simpers, B. Simonds, Q. Wei, H. Wang, T. Sun, A. Rollett, Y. Zou
+<br>J. Zhang, R. Jiang, K. Li, P. Chen, X. Shang, Z. Liu, J. Hattrick-Simpers, B. Simonds, Q. Wei, H. Wang, T. Sun, A.D. Rollett, Y. Zou
 <br> <a href="https://arxiv.org/abs/2402.16190">[arXiv 2024]</a>
 <br>
 * <b>Deep learning approaches for instantaneous laser absorptance prediction in additive manufacturing</b>
-<br>R. Jiang, J. Smith , Y.T. Yi, T. Sun, B. Simonds, A. Rollett
+<br>R. Jiang, J. Smith , Y.T. Yi, T. Sun, B. Simonds, A.D. Rollett
 <br> <a href="https://www.nature.com/articles/s41524-023-01172-8">[*npj Computational Materials*]</a><a href="https://rubyjiang18.github.io/keyholeofficial/">[Code and Dataset]
 <br>
 
@@ -28,7 +28,7 @@ author_profile: true
 
 ### 2021
 * <b>Time-resolved geometric feature tracking elucidates laser-induced keyhole dynamics</b>
-<br>J. Pyeon, J. Aroh, R. Jiang, A.K. Verma, B. Gould, A Ramlatchan, K Fezzaa, N Parab, C Zhao, T Sun, AD Rollett
+<br>J. Pyeon, J. Aroh, R. Jiang, A.K. Verma, B. Gould, A. Ramlatchan, K. Fezzaa, N. Parab, C. Zhao, T. Sun, A.D. Rollett
 <br> <a href="https://link.springer.com/article/10.1007/s40192-021-00241-4">[*Integrating Materials and Manufacturing Innovation*]</a>
 <br>
 
