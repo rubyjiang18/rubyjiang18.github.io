@@ -4,23 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+#### 2024
+* <b>Accurate predictions of keyhole depths using machine learning-aided simulations</b>
+<br>J. Zhang, R. Jiang, K. Li, P. Chen, X. Shang, Z. Liu, J. Hattrick-Simpers, B. Simonds, Q. Wei, H. Wang, T. Sun, A. Rollett, Y. Zou
+<br> <a href="https://arxiv.org/abs/2402.16190">[arXiv 2024]</a>
+<br>
+* <b>Deep learning approaches for instantaneous laser absorptance prediction in additive manufacturing</b>
+<br>R. Jiang, J. Smith , Y.T. Yi, T. Sun, B. Simonds, A. Rollett
+<br> <a href="https://www.nature.com/articles/s41524-023-01172-8">[*npj Comput Mater 10, 6 (2024)*]</a>
+<br>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-Last imported from my [GoogleScholar page](https://scholar.google.com/citations?hl=en&user=D8PJ7eEAAAAJ&view_op=list_works&sortby=pubdate) on 2024-06-03.
-
-J Zhang, R Jiang, K Li, P Chen, X Shang, Z Liu, J Hattrick-Simpers, B Simonds, Q Wei, H Wang, T Sun, A Rollett, Y Zou. [Accurate predictions of keyhole depths using machine learning-aided simulations](https://arxiv.org/abs/2402.16190). arXiv preprint.
-
-R Jiang, J Smith , YT Yi, T Sun, B Simonds, A Rollett. [Deep learning approaches for instantaneous laser absorptance prediction in additive manufacturing](https://www.nature.com/articles/s41524-023-01172-8). *npj Comput Mater 10, 6 (2024).*
-
+#### 2023
 R Jiang, Z Ren, J Aroh, A Mostafaei, B Gould, T Sun, AD Rollett, 2022, [Quantifying Equiaxed vs Epitaxial Solidification in Laser Melting of CMSX-4 Single Crystal Superalloy](https://link.springer.com/article/10.1007/s11661-022-06929-2), *Metallurgical and Materials Transactions A*.
 
 M Asherloo, Z Wu, MH Delpazir, E Ghebreiesus, S Fryzlewicz, R Jiang, B Gould, M Heim, D Nelson, M Marucci, M Paliwal, AD Rollett, A Mostafaei, 2022, [Laser-beam powder bed fusion of cost-effective non-spherical hydride-dehydride Ti-6Al-4V alloy](https://www.sciencedirect.com/science/article/pii/S2214860422002743), *Additive Manufacturing*, 56, 102875.
