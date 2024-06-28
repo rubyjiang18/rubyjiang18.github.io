@@ -54,7 +54,7 @@ author_profile: true
 <br> <a href="https://www.sciencedirect.com/science/article/pii/S0921509319304162">[*Materials Science and Engineering: A*]</a>
 <br>
 
-* <b>Varied heat treatments and properties of laser powder bed printed Inconel 718</b>
+* <b>In situ characterization of hot cracking using dynamic x-ray radiography</b>
 <br>P.J. Chiang, R. Jiang, R. Cunningham, N. Parab, C. Zhao, K. Fezzaa, T. Sun, A.D. Rollett
-<br> <a href="In situ characterization of hot cracking using dynamic x-ray radiography">[*Advanced real time imaging II*]</a>
+<br> <a href="https://link.springer.com/chapter/10.1007/978-3-030-06143-2_8">[*Advanced real time imaging II*]</a>
 <br>
