@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Incoming Research Scientist, Machine Learning at Meta. I earned my Ph.D. degree from the Department of Materials Science and Engineering at Carnegie Mellon University in 2023.
+I'm a Research Scientist, Machine Learning at Meta. I earned my Ph.D. degree from the Department of Materials Science and Engineering at Carnegie Mellon University in 2023.
 
 Research Interests
 ------
